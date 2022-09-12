@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "----------------------------------"
 echo " welcome to DATA TEMPLATE"
 echo "----------------------------------"
