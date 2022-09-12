@@ -1,7 +1,7 @@
 #!bin/bash
 
 echo "———————————————————————————————————————————"
-echo "Script to swap the gievn numbers and strings"
+echo "Script to swap the given numbers and strings"
 echo "———————————————————————————————————————————"
 echo "a=\c"; read a
 echo "b=\c"; read b
